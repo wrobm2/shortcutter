@@ -1,3 +1,6 @@
+# Click the code button on the view of this readme or it wont make a ton of sense. Line breaks didnt work for a large section of it and this is largely just a me project so im not gonna fix that unless someone asks me to.
+
+
 # shortcutter
 create shortcuts to cd to from anywhere with a single command 
 
